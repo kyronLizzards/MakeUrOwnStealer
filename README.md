@@ -6,6 +6,10 @@ To get started with developing your own stealer, you will need to have a basic u
 
 Once you have a basic understanding of these languages, you can start exploring the code in this repository. The code is split into two directories - one for JS and one for Python. Each directory contains sample code and instructions for creating your own stealer.
 
+# Start coding ur own stealer with this guide...
+
+[Exodus Stealer](https://github.com/kyronLizzards/MakeUrOwnStealer/blob/main/exodus.md)
+
 # FUD Methods
 In addition to providing information on developing your own stealer, this repository also includes some tips and tricks for using FUD methods. These methods can help you make your stealer more difficult to detect by antivirus software and other security tools.
 
