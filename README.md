@@ -1,4 +1,5 @@
 #Developing Your Own Stealer with JS and Python
+
 Welcome to my repository on developing your own stealer with JS and Python. This project is designed to help you understand the basics of creating a stealer and to provide some tips and tricks for using FUD (Fully Undetectable) methods.
 
 #Getting Started
