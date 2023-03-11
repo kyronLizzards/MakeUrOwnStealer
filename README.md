@@ -8,7 +8,7 @@ Once you have a basic understanding of these languages, you can start exploring 
 
 # Start coding ur own stealer with this guide...
 
-[Exodus Stealer](https://github.com/kyronLizzards/MakeUrOwnStealer/blob/main/exodus.md)
+[Exodus Stealer](https://github.com/kyronLizzards/MakeUrOwnStealer/blob/main/exodus.md)<br>
 [Learn how code a script to protect your webhook](https://github.com/kyronLizzards/MakeUrOwnStealer/blob/main/wh_protection.md)
 
 # FUD Methods
