@@ -9,6 +9,7 @@ Once you have a basic understanding of these languages, you can start exploring 
 # Start coding ur own stealer with this guide...
 
 [Exodus Stealer](https://github.com/kyronLizzards/MakeUrOwnStealer/blob/main/exodus.md)
+[Learn how code a script to protect your webhook](https://github.com/kyronLizzards/MakeUrOwnStealer/blob/main/wh_protection.md)
 
 # FUD Methods
 In addition to providing information on developing your own stealer, this repository also includes some tips and tricks for using FUD methods. These methods can help you make your stealer more difficult to detect by antivirus software and other security tools.
